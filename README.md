@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/book background.webp" alt="Your Image Alt Text">
+</p>
+
 ## About Me 🥀🎧📚
 Hello! My Name is Amir Mohammadi, I am an aspiring Computer Scientist hoping to pursue Full Stack development. 
 
